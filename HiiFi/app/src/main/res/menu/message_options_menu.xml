@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <!-- Delete for Me -->
+    <item
+        android:id="@+id/deleteForMe"
+        android:title="Delete for Me"
+        android:icon="@drawable/baseline_delete_24"
+        app:showAsAction="never" />
+
+    <!-- Delete for Everyone (Only for sender) -->
+    <item
+        android:id="@+id/deleteForEveryone"
+        android:title="Delete for Everyone"
+        android:icon="@drawable/baseline_delete_forever_24"
+        android:visible="false"
+        app:showAsAction="never" />
+
+    <!-- Edit Message (Only for sender) -->
+    <item
+        android:id="@+id/editMessage"
+        android:title="Edit Message"
+        android:icon="@drawable/baseline_edit_24"
+        android:visible="false"
+        app:showAsAction="never" />
+
+</menu>

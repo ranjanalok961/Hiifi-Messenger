@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Your App Theme -->
+    <style name="Theme.YourAppName" parent="Theme.MaterialComponents.Light.DarkActionBar">
+        <!-- Other theme items -->
+    </style>
+
+    <!-- Custom Popup Menu Style -->
+    <style name="PopupMenuStyle" parent="ThemeOverlay.AppCompat.Light">
+        <item name="android:popupBackground">@drawable/popup_background</item>
+    </style>
+</resources>

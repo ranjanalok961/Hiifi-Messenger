@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "41073981179",
+    "firebase_url": "https://hiifi-448dc-default-rtdb.firebaseio.com",
+    "project_id": "hiifi-448dc",
+    "storage_bucket": "hiifi-448dc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41073981179:android:1929a244f47829531be25e",
+        "android_client_info": {
+          "package_name": "com.demo.hiifi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2uAYBY2p8ylvr0DbpuiixzFPP1RjHUTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
